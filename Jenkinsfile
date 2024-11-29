@@ -1,5 +1,5 @@
   
-node('any') 
+node('*') 
 
 { 
 
